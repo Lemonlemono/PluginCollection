@@ -16,6 +16,23 @@
         "DownloadLinkUpdate": "https://github.com/Lemonlemonon/MyDalamudPlugins/raw/main/plugins/PeepingTom/latest.zip",
         "DownloadCount": 0,
         "LastUpdate": "1676939600"
+    },
+    {
+        "Author": "UNNAME",
+        "Name": "Khelper",
+        "InternalName": "Khelper",
+        "AssemblyVersion": "1.4.0.10",
+        "RepoUrl": "https://github.com/Lemonlemonon/MyDalamudPlugins/blob/main/plugins/Khelper",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Lemonlemonon/MyDalamudPlugins/raw/main/plugins/Khelper/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lemonlemonon/MyDalamudPlugins/raw/main/plugins/Khelper/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lemonlemonon/MyDalamudPlugins/raw/main/plugins/Khelper/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1676939600"
     }
-    
 ]
