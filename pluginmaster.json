@@ -1,0 +1,21 @@
+[
+    {
+        "Author": "UNNAME",
+        "Name": "PeepingTom",
+        "InternalName": "PeepingTom",
+        "AssemblyVersion": "1.4.0.10",
+        "RepoUrl": "https://github.com/Lemonlemonon/MyDalamudPlugins/tree/CN/plugins/PeepingTom",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Lemonlemonon/MyDalamudPlugins/tree/CN/plugins/PeepingTom/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Lemonlemonon/MyDalamudPlugins/tree/CN/plugins/PeepingTomlatest.zip",
+        "DownloadLinkUpdate": "https://github.com/Lemonlemonon/MyDalamudPlugins/tree/CN/plugins/PeepingTom/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1676939600"
+    }
+    
+]
