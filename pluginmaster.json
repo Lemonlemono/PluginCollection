@@ -19,8 +19,8 @@
     },
     {
         "Author": "UNNAME",
-        "Name": "Khelper",
-        "InternalName": "Khelper",
+        "Name": "ezpvp",
+        "InternalName": "ezpvp",
         "AssemblyVersion": "1.4.0.10",
         "RepoUrl": "https://github.com/Lemonlemonon/MyDalamudPlugins/blob/main/plugins/Khelper",
         "ApplicableVersion": "any",
