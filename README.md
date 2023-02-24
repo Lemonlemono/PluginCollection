@@ -1,2 +1,2 @@
 # MyDalamudPlugins
-List of dalamud plugins
+Dalamud plugins CN ver
