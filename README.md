@@ -1,2 +1,1 @@
-# MyDalamudPlugins
-List of dalamud plugins
+# Plugin Collection
