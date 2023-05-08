@@ -213,6 +213,31 @@
         "DownloadLinkUpdate": "https://github.com/Lemonlemonon/MyDalamudPlugins/raw/CN/plugins/Cammy/latest.zip",
         "DownloadCount": 9575,
         "LastUpdate": "1681869097"
+    },
+    {
+      "Author": "53m1k0l0n, Puni.sh",
+      "Name": "LazyLoot",
+      "Punchline": "Dungeon Loot but Lazy.",
+      "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
+      "Changelog": "Added\n- [FULF] Allows customization of initial FULF rolling delay.",
+      "Tags": [
+        "plugin",
+        "loot",
+        "utility",
+        "other"
+      ],
+      "InternalName": "LazyLoot",
+      "AssemblyVersion": "5.0.9.4",
+      "RepoUrl": "https://love.puni.sh/ment.json",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 8,
+      "DownloadCount": 206,
+      "LastUpdate": 1683310338,
+      "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
+      "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
+      "DownloadLinkTesting": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
+      "IconUrl": "https://love.puni.sh/resources/plugin.png",
+      "AcceptsFeedback": true
     }
       
 ]
