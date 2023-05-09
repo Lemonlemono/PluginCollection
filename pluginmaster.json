@@ -14,7 +14,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/PeepingTomlatest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/PeepingTom/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1676939600"
     },
     {
@@ -35,7 +35,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/YesAlready/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/YesAlready/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1679180260"
     },
     {
@@ -58,7 +58,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/ezWondrousTails/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/ezWondrousTails/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1679180260"
     },
     {
@@ -78,7 +78,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/TextAdvance/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/TextAdvance/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdated": "0"
     },
     {
@@ -105,7 +105,7 @@
         "AssemblyVersion": "2.7.4",
         "Changelog": "2.7.4 (2023-05-02)\n\n\nBug Fixes\n\n* add a fetch time for ping check. (476737a)\n* add a upper limit of ping, and restriction of  healPotion usage (ef07570)\n* add another ping check method to refine the ping. (1e751cd)\n* changed high-end error message. (0d74a6c)\n* changed state string. (c11e8a6)\n* fixed the heal potion usage. (ef42c91)\n* fixed with auto status tank stance. (015c5ba)",
         "DownloadCount": "7729",
-        "LastUpdate": 1683034603,
+        "LastUpdate": 1,
         "RepoUrl": "https://github.com/ArchiDog1998/RotationSolver",
         "DownloadLinkInstall": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.4/latest.zip",
         "DownloadLinkUpdate": "https://github.com/ArchiDog1998/RotationSolver/releases/download/v2.7.4/latest.zip"
@@ -125,7 +125,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/RadarPlugin/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/RadarPlugin/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1681621370"
     },
     {
@@ -143,7 +143,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/SkipCutscene/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/SkipCutscene/latest.zip",
-        "DownloadCount": 0,
+        "DownloadCount": 1,
         "LastUpdate": "1681621370"
     },
     {
@@ -161,7 +161,7 @@
         "TestingAssemblyVersion": "6.3",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 6657,
+        "DownloadCount": 1,
         "LastUpdate": 1680368826,
         "DownloadLinkInstall": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Saucy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Saucy/latest.zip",
@@ -180,7 +180,7 @@
         "RepoUrl": "https://github.com/PunishXIV/AutoRetainer",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
-        "DownloadCount": 26764,
+        "DownloadCount": 1,
         "LastUpdate": 1683130016,
         "DownloadLinkInstall": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/AutoRetainer/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/AutoRetainer/latest.zip",
@@ -211,7 +211,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Cammy/latest.zip",
         "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Cammy/latest.zip",
-        "DownloadCount": 9575,
+        "DownloadCount": 1,
         "LastUpdate": "1681869097"
     },
     {
@@ -231,12 +231,38 @@
       "RepoUrl": "https://love.puni.sh/ment.json",
       "ApplicableVersion": "any",
       "DalamudApiLevel": 8,
-      "DownloadCount": 206,
+      "DownloadCount": 1,
       "LastUpdate": 1683310338,
-      "DownloadLinkInstall": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
-      "DownloadLinkUpdate": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
-      "DownloadLinkTesting": "https://love.puni.sh/plugins/LazyLoot/latest.zip",
+      "DownloadLinkInstall": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/LazyLoot/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/LazyLoot/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/LazyLoot/latest.zip",
       "IconUrl": "https://love.puni.sh/resources/plugin.png",
+      "AcceptsFeedback": true
+    },
+    {
+      "Author": "BitsOfAByte",
+      "Name": "Wholist",
+      "InternalName": "Wholist",
+      "AssemblyVersion": "6.3",
+      "Description": "Show nearby players in a stylish way, inspired by the \"/who\" command from World of Warcraft\n\nFeatures:\n- Minimalistic interface that can be scaled down to become part of your HUD.\n- Player context menu items, like sending tells, examining, searching on the Lodestone and more.\n- Customizable colours & behaviour.\n- Integration support with other plugins via IPC.",
+      "ApplicableVersion": "any",
+      "RepoUrl": "https://github.com/BitsOfAByte/Wholist",
+      "Tags": [
+        "/who"
+      ],
+      "CategoryTags": [
+        "UI",
+        "Social"
+      ],
+      "DalamudApiLevel": 8,
+      "LoadRequiredState": 0,
+      "LoadSync": false,
+      "LoadPriority": 0,
+      "DownloadCount": 1,
+      "Punchline": "Show nearby players in a stylish way, inspired by the \"/who\" command from World of Warcraft.",
+      "DownloadLinkInstall": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Wholist/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Wholist/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Wholist/latest.zip",
       "AcceptsFeedback": true
     }
       
