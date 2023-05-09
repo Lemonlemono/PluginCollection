@@ -1,7 +1,7 @@
 [
     {
         "Author": "UNNAME",
-        "Name": "PeepingTom",
+        "Name": "@PeepingTom",
         "InternalName": "PeepingTom",
         "AssemblyVersion": "6.3",
         "RepoUrl": "https://github.com/Lemonlemono/MyDalamudPlugins/tree/CN/plugins/PeepingTom",
@@ -19,7 +19,7 @@
     },
     {
         "Author": "daemitus",
-        "Name": "Yes Already",
+        "Name": "@Yes Already",
         "Punchline": "Clicks Yes in various dialogs you've specified.",
         "Description": "Tired of clicking yes in Praetorium? Can't stand using keys in dungeons? Well do I have the plugin for you! Yes Already is specifically designed to click all the annoying dialogs you've grown accustomed facerolling. Just enter the dialog text, and you'll never see it again! Also works with /regex/ and has several built-in modules for dialogs that aren't quite yes/no prompts but act like it (like desynth).",
         "InternalName": "YesAlready",
@@ -40,7 +40,7 @@
     },
     {
         "Author": "daemitus",
-        "Name": "ezWondrousTails",
+        "Name": "@ezWondrousTails",
         "Punchline": "Adds row probabilities to the Wondrous Tails display.",
         "Description": "This plugin prints the probability of getting a row in Wondrous Tails to the in-game display along with the average probability of what would happen if you shuffled.",
         "InternalName": "WondrousTailsSolver",
@@ -63,7 +63,7 @@
     },
     {
         "Author": "NightmareXIV",
-        "Name": "TextAdvance",
+        "Name": "@TextAdvance",
         "Punchline": "Automatically skips subtitle boxes and confirms cutscene skipping. Useful mostly for alt levelling. Requires /at command to be typed on each log in to be enabled.",
         "Description": "",
         "InternalName": "TextAdvance",
@@ -83,7 +83,7 @@
     },
     {
         "Author": "ArchiTed",
-        "Name": "Rotation Solver",
+        "Name": "@Rotation Solver",
         "InternalName": "RotationSolver",
         "Description": "Based on the pve combat information in one frame, find the best action.\n\nThe `information` is almost all the information available in one frame in combat, including the status of the all players in party, the status of the hostile targets, action cooling, the number of action stack, the MP and HP of characters, the location of characters, casting action of the hostile target, combo ID, combat duration, player level, etc. In this case, opener is also a kind of information that a lot of abilities are not cooling down.\n\nThen, it will highlight the best action one the hot bar, or help you to click on it.\n\nIt is designed for general combat, not for savage or ultimate. So use it carefully.",
         "ApplicableVersion": "any",
@@ -112,7 +112,7 @@
       },
       {
         "Author": "KangasZ",
-        "Name": "Radar Plugin",
+        "Name": "@Radar Plugin",
         "Punchline": "See stuff through things!",
         "Description": "3D Radar to see everything through walls.",
         "InternalName": "RadarPlugin",
@@ -130,7 +130,7 @@
     },
     {
         "Author": "Windmourn",
-        "Name": "SkipCutscene",
+        "Name": "@SkipCutscene",
         "Punchline": "Help you skip cutscene from Duty Roulette: Main Scenario.",
         "Description": "A plugin which could help you skip cutscene from Duty Roulette: Main Scenario.",
         "InternalName": "SkipCutscene",
@@ -148,7 +148,7 @@
     },
     {
         "Author": "Puni.sh (Taurenkey)",
-        "Name": "Saucy",
+        "Name": "@Saucy",
         "Punchline": "When working for MGP is too much effort.",
         "Description": "Automates certain Gold Saucer mini-games.",
         "Tags": [
@@ -171,7 +171,7 @@
       },
       {
         "Author": "Puni.sh",
-        "Name": "AutoRetainer",
+        "Name": "@AutoRetainer",
         "Punchline": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "Description": "Collect and assign ventures to your retainers from the comfort of your bed.",
         "InternalName": "AutoRetainer",
@@ -190,7 +190,7 @@
       },
       {
         "Author": "UnknownX",
-        "Name": "Cammy",
+        "Name": "@Cammy",
         "Punchline": "A simple editor for the game's camera settings",
         "Description": "A simple camera editor to change various game defaults such as zoom and fov.\nThis is a zoom hack, if you aren't comfortable with that fact, don't install it.",
         "Changelog": "Added view bobbing, added free cam support for both GPose and Duty Recorder, removed useless settings, fixed several bugs related to camera settings resetting",
@@ -216,7 +216,7 @@
     },
     {
       "Author": "53m1k0l0n, Puni.sh",
-      "Name": "LazyLoot",
+      "Name": "@LazyLoot",
       "Punchline": "Dungeon Loot but Lazy.",
       "Description": "Roll command with various arguments need | needonly | greed | pass | passall. \nChat and Toast output and delay for rolling.",
       "Changelog": "Added\n- [FULF] Allows customization of initial FULF rolling delay.",
@@ -241,7 +241,7 @@
     },
     {
       "Author": "BitsOfAByte",
-      "Name": "Wholist",
+      "Name": "@Wholist",
       "InternalName": "Wholist",
       "AssemblyVersion": "6.3",
       "Description": "Show nearby players in a stylish way, inspired by the \"/who\" command from World of Warcraft\n\nFeatures:\n- Minimalistic interface that can be scaled down to become part of your HUD.\n- Player context menu items, like sending tells, examining, searching on the Lodestone and more.\n- Customizable colours & behaviour.\n- Integration support with other plugins via IPC.",
@@ -263,6 +263,29 @@
       "DownloadLinkInstall": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Wholist/latest.zip",
       "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Wholist/latest.zip",
       "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Wholist/latest.zip",
+      "AcceptsFeedback": true
+    },
+    {
+      "Author": "Taurenkey (Puni.sh)",
+      "Name": "@Artisan",
+      "Punchline": "A 'simple' crafting plugin.",
+      "Description": "The all-in-one crafting plugin.",
+      "Changelog": "- Please visit the Discord for a full list of updates.",
+      "Tags": [
+        "crafting"
+      ],
+      "InternalName": "Artisan",
+      "AssemblyVersion": "1.7.5.0",
+      "TestingAssemblyVersion": "1.7.5.1",
+      "RepoUrl": "https://github.com/PunishXIV/Artisan",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 8,
+      "DownloadCount": 1,
+      "LastUpdate": 1683475530,
+      "DownloadLinkInstall": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Artisan/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Artisan/latest.zip",
+      "DownloadLinkTesting": "https://github.com/Lemonlemono/MyDalamudPlugins/raw/CN/plugins/Artisan/latest.zip",
+      "IconUrl": "https://love.puni.sh/resources/artisan.png",
       "AcceptsFeedback": true
     }
       
