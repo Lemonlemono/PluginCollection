@@ -2,7 +2,7 @@
     {
         "Author": "UNNAME",
         "Name": "@PeepingTom",
-        "InternalName": "PeepingTom",
+        "InternalName": "@PeepingTom",
         "AssemblyVersion": "6.3",
         "RepoUrl": "https://github.com/Lemonlemono/MyDalamudPlugins/tree/CN/plugins/PeepingTom",
         "ApplicableVersion": "any",
